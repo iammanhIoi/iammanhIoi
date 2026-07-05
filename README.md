@@ -28,11 +28,11 @@
 
 I use AI tools as part of my daily engineering workflow for planning, coding, debugging, refactoring, and documentation.
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-00A3E0?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logo=gnubash&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ## Tech Stack
 
@@ -68,17 +68,6 @@ Feb 2026 - Present
 
 **University of Information Technology (UIT)**  
 2019 - 2024
-
-## GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammanhIoi&theme=tokyonight" alt="GitHub profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammanhIoi&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammanhIoi&theme=tokyonight" alt="Repositories per language" />
-</p>
 
 ## Connect
 
