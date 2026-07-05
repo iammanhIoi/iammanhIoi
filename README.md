@@ -71,9 +71,13 @@ Feb 2026 - Present
 
 ## GitHub Snapshot
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iammanhIoi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammanhIoi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammanhIoi&theme=tokyonight" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammanhIoi&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammanhIoi&theme=tokyonight" alt="Repositories per language" />
 </p>
 
 ## Connect
