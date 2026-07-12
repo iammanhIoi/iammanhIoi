@@ -1,28 +1,20 @@
-<h1 align="center">Hi, I'm Manh Loi</h1>
-
 <p align="center">
-  <strong>Mobile Developer | Full-Stack Builder | AI-Powered Engineer</strong>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=7F5AF0&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Manh+Loi;Mobile+Developer;Full-Stack+Builder;AI-Powered+Engineer;I+build+polished+mobile+apps;modern+web+products;and+reliable+backend+services;with+a+practical%2C+product-focused+mindset" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  I build polished mobile apps, modern web products, and reliable backend services with a practical, product-focused mindset.
-</p>
-
-<p align="center">
-  <a href="mailto:manhloi0505@gmail.com"><img src="https://img.shields.io/badge/Email-manhloi0505%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/loi-pham-manh-9716a2207/"><img src="https://img.shields.io/badge/LinkedIn-Manh%20Loi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/iammanhIoi"><img src="https://img.shields.io/badge/GitHub-iammanhIoi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="assets/working.gif" width="480" alt="Coding gif" />
 </p>
 
 ---
 
 ## What I Build
 
-- **Mobile apps**: native Android with Kotlin and cross-platform apps with React Native.
-- **Web products**: full-stack applications with React, TypeScript, and Node.js.
-- **Backend services**: REST APIs, server-side logic, and production-ready integrations.
-- **Modern UI**: responsive, clean, and user-friendly interfaces.
-- **AI-assisted workflows**: faster iteration, better code review, and cleaner implementation.
+- $\color{#3DDC84}\textbf{Mobile Apps}$ — Native Android with Kotlin and cross-platform apps with React Native.
+- $\color{#06B6D4}\textbf{Web Products}$ — Full-stack applications with React, TypeScript, and Node.js.
+- $\color{#F5A623}\textbf{Backend Services}$ — REST APIs, server-side logic, and production-ready integrations.
+- $\color{#FF6B9D}\textbf{Modern UI}$ — Responsive, clean, and user-friendly interfaces.
+- $\color{#7F5AF0}\textbf{AI Workflows}$ — Faster iteration, better code review, and cleaner implementation.
 
 ## AI Toolkit
 
@@ -58,21 +50,41 @@ I use AI tools as part of my daily engineering workflow for planning, coding, de
 
 ## Experience
 
-**Mobile Developer** at [HDBank](https://hdbank.com.vn/)  
-Feb 2026 - Present
-
-**Mobile Developer** at [MoMo Wallet (M_Service)](https://momo.vn/)  
-2021 - Jan 2026
+> <img src="assets/hdbank.png" width="22" valign="middle" /> 🟢 **Mobile Developer** — [HDBank](https://hdbank.com.vn/)
+> <br/><sub>Feb 2026 – Present</sub>
+>
+> <img src="assets/momo.webp" width="22" valign="middle" /> ⚪ **Mobile Developer** — [MoMo Wallet (M_Service)](https://momo.vn/)
+> <br/><sub>2021 – Jan 2026</sub>
 
 ## Education
 
-**University of Information Technology (UIT)**  
-2019 - 2024
+<img src="assets/uit.jpg" width="22" valign="middle" /> **University of Information Technology (UIT)**
+<br/><sub>2019 - 2024</sub>
+
+<!--
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammanhIoi&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammanhIoi&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" width="100%" />
+</p>
+-->
 
 ## Connect
 
-- LinkedIn: [loi-pham-manh-9716a2207](https://www.linkedin.com/in/loi-pham-manh-9716a2207/)
-- Email: [manhloi0505@gmail.com](mailto:manhloi0505@gmail.com)
-- Facebook: [manhloi551](https://www.facebook.com/manhloi551/)
-- Instagram: [p.manhloi](https://www.instagram.com/p.manhloi/)
-- Phone: `+84792465841`
+<p align="left">
+  <a href="https://www.linkedin.com/in/loi-pham-manh-9716a2207/"><img src="https://img.shields.io/badge/-loi--pham--manh--9716a2207-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <br/>
+  <a href="mailto:manhloi0505@gmail.com"><img src="https://img.shields.io/badge/-manhloi0505%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <br/>
+  <a href="https://github.com/iammanhIoi"><img src="https://img.shields.io/badge/-iammanhIoi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <br/>
+  <a href="https://www.facebook.com/manhloi551/"><img src="https://img.shields.io/badge/-manhloi551-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <br/>
+  <a href="https://www.instagram.com/p.manhloi/"><img src="https://img.shields.io/badge/-p.manhloi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <br/>
+  <a href="tel:+84792465841"><img src="https://img.shields.io/badge/%F0%9F%93%9E_%2B84_792_465_841-4CAF50?style=for-the-badge" alt="Phone" /></a>
+</p>
